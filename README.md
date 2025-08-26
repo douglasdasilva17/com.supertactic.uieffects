@@ -19,7 +19,7 @@ It enhances user interactions by adding smooth hover, selection, and animation f
 2. Open your project's `manifest.json` file and add the following line inside the `dependencies` section:
 
 ```json
-"com.supertactic.uieffects": "0.0.1"
+"com.supertactic.uieffects": "0.0.2"
 ```
 
 ---
