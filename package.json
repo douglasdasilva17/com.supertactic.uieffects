@@ -1,7 +1,7 @@
 {
   "name": "com.supertactic.uieffects",
   "displayName": "Supertactic UI Effects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Unity package that provides customizable UI effects, such as hover and selection animations, to enhance user interface interactions.",
   "unity": "2022.3",
   "dependencies": {
